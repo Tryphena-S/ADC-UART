@@ -37,6 +37,7 @@ Analyse timer and UART operation by toggling an LED at one-second intervals usin
 ## OUTPUT
 
 
+<img width="1877" height="1002" alt="image" src="https://github.com/user-attachments/assets/45ad6f2a-ce36-4003-85fc-f6140b873d98" />
 
 
 
